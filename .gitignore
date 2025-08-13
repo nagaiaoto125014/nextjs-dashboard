@@ -1,0 +1,5 @@
+.next/server/chunks/*
+.next/static/chunks/*
+.next/static/media/*
+.next/build/*
+node_modules/*
